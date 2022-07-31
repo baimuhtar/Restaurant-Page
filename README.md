@@ -1,2 +1,2 @@
 # Restaurant-Page
-Reastaurant First Page
+Restaurant First Page
